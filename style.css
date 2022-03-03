@@ -1,0 +1,15 @@
+.powered{
+  position: absolute;
+  top: 60px;
+}
+
+.Type{
+    position: absolute;
+  top: 500px;
+}
+
+
+  .buscador{
+    width: 500px;
+    height: 30px;
+  }
